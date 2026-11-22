@@ -1,0 +1,12 @@
+{
+  "name": "jjsongraphs",
+  "version": "0.1.0",
+  "description": "Mock graph-storage API used to try out Graphify.",
+  "main": "src/server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/"
+  },
+  "license": "MIT"
+}
